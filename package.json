@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habul17/React.git"
+  },
+  "author": "Abul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habul17/React/issues"
+  },
+  "homepage": "https://github.com/habul17/React#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
